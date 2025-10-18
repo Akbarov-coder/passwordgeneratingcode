@@ -1,5 +1,4 @@
 # passwordgeneratingcode
-Password generator
 import random
 symbols = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 len_pass = int(input("Введите длину пароля:"))
